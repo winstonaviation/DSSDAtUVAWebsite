@@ -9,7 +9,7 @@ const About = () => {
     {
       name: "Vinith Jayamani",
       position: "President",
-      interests: ["Climate Data Analytics", "Machine Learning", "Sustainable Development"],
+      interests: ["Health Science Analytics", "Machine Learning", "Sports Analytics"],
       image: "../../images/VinithJayamani.jpeg",
       linkedin: "https://www.linkedin.com/in/vinith-jayamani-0892692b0/",
       email: "uhe5bj@virginia.edu"
@@ -25,7 +25,7 @@ const About = () => {
     {
       name: "Dhruv Sarang",
       position: "President of Business Development",
-      interests: ["Corporate Sustainability", "Impact Assessment", "Policy Analysis"],
+      interests: ["Corporate Sustainability", "Sustainable Solutions", "Business Consulting"],
       image: "https://media.licdn.com/dms/image/v2/D4E03AQGAp-IXPjXwWA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701633206496?e=1759363200&v=beta&t=JrQn7MbjpMRHUJ9Pf-OeY5jJXhYMzu4Pr5zZ1vEDBo4",
       linkedin: "https://www.linkedin.com/in/dhruv-sarang/",
       email: "kwc3am@virginia.edu"
