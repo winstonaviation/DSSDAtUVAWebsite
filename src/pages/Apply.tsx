@@ -10,25 +10,25 @@ const Apply = () => {
       title: "Data Engineer",
       department: "Data Science Track",
       type: "Project-based",
-      description: "Join our research team to work on cutting-edge projects in environmental data science and sustainability analytics.",
-      requirements: ["Strong background in statistics/data science", "Python/R programming experience", "Interest in environmental issues", "Undergraduate or graduate student"],
-      commitment: "10-15 hours/week"
+      description: "Engage in data cleaning, preprocessing, machine learning, and more for our sustainability-focused projects.",
+      requirements: ["Strong background in statistics/data science", "Python/R programming experience", "Interest in environmental issues", "Undergraduate student"],
+      commitment: "3-5 hours/week"
     },
     {
       title: "Software Engineer",
       department: "Software Track",
       type: "Project-based",
-      description: "Lead project coordination and client relationships for our sustainability consulting initiatives.",
+      description: "Engineer software-based and artificial intelligence automation solutions to address sustainability challenges.",
       requirements: ["Project management experience", "Strong communication skills", "Organized and detail-oriented", "Interest in sustainability"],
-      commitment: "8-12 hours/week"
+      commitment: "3-5 hours/week"
     },
     {
-      title: "Technical Consultant",
-      department: "Consulting Team",
+      title: "Technical/Business Consultant",
+      department: "Business Consulting Track",
       type: "Project-based",
-      description: "Work directly with partner organizations to implement data science solutions for sustainability challenges.",
+      description: "Work directly with partner organizations to reccomend, coordinate, and implement consulting solutions for sustainability challenges.",
       requirements: ["Advanced data science skills", "Experience with machine learning", "Client-facing experience preferred", "Graduate student preferred"],
-      commitment: "15-20 hours/week"
+      commitment: "3-5 hours/week"
     }
   ];
 

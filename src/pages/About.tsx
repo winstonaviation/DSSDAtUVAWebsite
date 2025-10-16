@@ -18,7 +18,7 @@ const About = () => {
       name: "Winston Shek",
       position: "President of Technology",
       interests: ["Hydrogen-Powered Aircraft", "Software Solutions", "Sustinable Aviation Fuel"],
-      image: "https://media.licdn.com/dms/image/v2/D4E03AQH2S7BXguDnDQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730055051325?e=1759363200&v=beta&t=VsyaiN2z9mP4bsn7kArs40DWeW98eCb33NXmfn2Nnuw",
+      image: "../../images/WinstonShek.jpeg",
       linkedin: "https://www.linkedin.com/in/winston-shek",
       email: "vwy6cc@virginia.edu"
     },
@@ -26,15 +26,15 @@ const About = () => {
       name: "Dhruv Sarang",
       position: "President of Business Development",
       interests: ["Corporate Sustainability", "Sustainable Solutions", "Business Consulting"],
-      image: "https://media.licdn.com/dms/image/v2/D4E03AQGAp-IXPjXwWA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1701633206496?e=1759363200&v=beta&t=JrQn7MbjpMRHUJ9Pf-OeY5jJXhYMzu4Pr5zZ1vEDBo4",
+      image: "../../images/DhruvSarang.jpeg",
       linkedin: "https://www.linkedin.com/in/dhruv-sarang/",
       email: "kwc3am@virginia.edu"
     },
     {
       name: "Siddharth Laks",
       position: "Vice President of Business Development",
-      interests: ["Deep Learning", "Computer Vision", "Environmental Monitoring"],
-      image: "https://media.licdn.com/dms/image/v2/D4E03AQGafzozqBNmIQ/profile-displayphoto-shrink_400_400/B4EZbRiSCUHYAg-/0/1747272147452?e=1759363200&v=beta&t=jftxNxeFYMEKGM4S22E8Eb5UO4EQVjoaKVHQrx4U0xc",
+      interests: ["Data Analysis", "Computer Vision", "Environmental Monitoring"],
+      image: "../../images/SiddharthLaks.jpeg",
       linkedin: "https://www.linkedin.com/in/siddharth-laks-41876a235/",
       email: "egm8hu@virginia.edu"
     }
@@ -81,7 +81,7 @@ const About = () => {
             <div className="flex justify-center">
               <div className="bg-gradient-to-br from-accent to-accent/50 rounded-lg p-8 w-full max-w-md">
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-primary mb-2">10+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">15+</div>
                   <div className="text-sm text-muted-foreground mb-6">Active Members</div>
                   <div className="text-4xl font-bold text-primary mb-2">5+</div>
                   <div className="text-sm text-muted-foreground mb-6">Active Projects</div>
